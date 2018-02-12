@@ -8,7 +8,7 @@ import java.util.Set;
 /**
  * Created by yuzongtao on 2018/2/12.
  */
-public class RedisTest {
+public class Redistest {
     public static void main(String[] args) {
         //连接本地的 Redis 服务
         Jedis jedis = new Jedis("101.132.182.81", 63790);
